@@ -112,9 +112,8 @@ body{
     background-color: black;
 }
 
-.city-button {
+.city-button{
     background-image: url("/images/map.jpg");
-    color: white;
     background-color: rgb(22, 154, 22);
     text-shadow: 1px 2px 2px #000000;
     font-family: 'Roboto', Arial, sans-serif;
@@ -125,9 +124,13 @@ body{
     width: 300px;
     text-align: center;
     margin-left: 20px;
-    margin: 50px auto;
-    padding: 20px;
+    margin: 30px auto;
+    padding: 10px;
+}
 
+.city-button a{
+    color: white;
+    text-decoration: none;
 }
 
 .city-button:hover{
@@ -164,3 +167,4 @@ section .item{
     background-image:url("/images/melbourne.jpg");
     background-color: black;
 }
+
