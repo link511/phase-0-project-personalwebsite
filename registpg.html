@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/regstyles.css">
+    <title>Registration</title>
+</head>
+
+<body>
+
+
+    <!--Navigation bar section-->
+
+    <div class="navibar">
+        <div class="container">
+            <div class="logo">Destifun</div>
+            <p>
+                <a href="#">Home</a>
+
+
+                <a href="#">Overseas Destinations</a>
+
+
+                <a href="#">Local destinations</a>
+            </p>
+
+        </div>
+    </div>
+
+
+    <div class="container2">
+
+        <h2>Thank you for your interest. Destifun tour's goal is to make sure you have a lot of fun and at the same time
+            meet new friends. Please enter the information below and we will get back
+            to
+            you to proceed to the next step.</h2>
+
+        <form action="input.php" method="post">
+
+            <div class="fieldbox">
+                <p>Which distination Tour are you interested in joining (you can select both)?</p>
+                <br>
+                <input type="radio" id="local" name="local" value="local">
+                <label for="html">Local</label><br>
+                <input type="radio" id="overseas" name="overseas" value="overseas">
+                <label for="css">Overseas</label><br>
+            </div>
+
+
+            <div class="fieldbox">
+                <label for="FirstName">Enter your first name</label>
+                <input type="text" id="firstname" name="firstname" placeholder="First name" required>
+            </div>
+
+            <div class="fieldbox">
+                <label for="LastName">Enter your last name</label>
+                <input type="text" id="lastname" name="lastname" placeholder="Last name" required>
+            </div>
+
+            <div class="fieldbox">
+                <label for="email">Enter your Email</label>
+                <input type="email" id="email" name="email" placeholder="Your Email" required>
+            </div>
+
+            <div class="fieldbox">
+                <label for="phone">Enter your Phone Number</label>
+                <input type="tel" id="phone" name="phone" placeholder="Your Phone number" (optional)>
+            </div>
+
+            <div class="fieldbox">
+                <label for="message">Your message: </label>
+                <textarea id="message" name="message" placeholder="Enter Message"></textarea>
+            </div>
+
+            <div class="submitbox">
+                <p>By ticking the box, you are authorising and happy for Destifun customer service to contact you using
+                    the information you have
+                    entered above. Your information will be securely stored in our server. </p>
+
+                <br>
+                <input type="checkbox" id="checkbox">
+                <input type="submit" value="submit">
+            </div>
+
+        </form>
+    </div>
+
+</body>
+
+</html>
