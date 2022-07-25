@@ -10,7 +10,7 @@ body{
     color: steelblue;
     font-size: 16px;
     font-weight: 400;
-    background-image:url("/images/pink.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/pink.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -24,7 +24,7 @@ body{
 
 .navibar{
     background: rgb(116, 191, 116);
-    background-image: url("/images/travel.jpg");
+    background-image: url("/phase-0-project-personalwebsite/images/travel.jpg");
     height: 300px;
 }
 

@@ -98,22 +98,22 @@ body{
 }
 
 .hk {
-    background-image:url("/images/Hong Kong.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/Hong Kong.jpg");
     background-color: black;
 }
 
 .jp{
-    background-image:url("/images/japan.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/japan.jpg");
     background-color: black;
 }
 
 .sg{
-    background-image:url("/images/singapore.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/singapore.jpg");
     background-color: black;
 }
 
 .city-button{
-    background-image: url("/images/map.jpg");
+    background-image: url("/phase-0-project-personalwebsite/images/map.jpg");
     background-color: rgb(22, 154, 22);
     text-shadow: 1px 2px 2px #000000;
     font-family: 'Roboto', Arial, sans-serif;
@@ -154,17 +154,17 @@ section .item{
 }
 
 .syd{
-    background-image:url("/images/sydney.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/sydney.jpg");
     background-color: black;
 }
 
 .gc{
-    background-image:url("/images/gold coast.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/gold coast.jpg");
     background-color: black;
 }
 
 .mel{
-    background-image:url("/images/melbourne.jpg");
+    background-image:url("/phase-0-project-personalwebsite/images/melbourne.jpg");
     background-color: black;
 }
 

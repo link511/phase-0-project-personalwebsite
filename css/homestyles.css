@@ -5,14 +5,14 @@
 }
 
 body{
-background-image:url("/images/pink.jpg");
+background-image:url("/phase-0-project-personalwebsite/images/pink.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 }
 
 .navibar{
     background: rgb(116, 191, 116);
-    background-image: url("/images/travel.jpg");
+    background-image: url("/phase-0-project-personalwebsite/images/travel.jpg");
     height: 300px;
 }
 
@@ -97,7 +97,7 @@ grid-row-end: 4;
 
 .us{
     text-align: justify;
-    background-image: url("/images/blue.jpg");
+    background-image: url("/phase-0-project-personalwebsite/images/blue.jpg");
     padding: 10px;
     color: white;
     font-weight: bold;
