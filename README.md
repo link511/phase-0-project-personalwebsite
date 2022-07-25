@@ -1,7 +1,9 @@
 ﻿# phase-0-project-personalwebsite
 1st Project - Personal Website
 
-This is a personal project for Phase 0.  It will be based on Html and CSS code I learned in the module and mentor class in the last 3 weeks.
+This is a personal project for Phase 0.  It will be based on Html and CSS code I learned in the module and mentor class in the last 3 weeks.  
+
+The Website address is https://link511.github.io/phase-0-project-personalwebsite/
 
 ## Requirements
 
