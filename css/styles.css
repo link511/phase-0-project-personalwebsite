@@ -25,7 +25,7 @@ body{
 
 .navibar{
     background: rgb(116, 191, 116);
-    background-image: url("./images/travel.jpg");
+    background-image: url("/phase-0-project-personalwebsite/images/travel.jpg");
     height: 300px;
 }
 
